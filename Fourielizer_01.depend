@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1629889457 source:e:\suyog\bct\bctsem3\oop\project\visualizer-main\project_2\fft_2\reference files\fourielizer_01\main.cpp
+	"main.h"
+	"Audio.h"
+	<direct.h>
+	<dirent.h>
+	<cstring>
+	<string>
+
+1629889058 e:\suyog\bct\bctsem3\oop\project\visualizer-main\project_2\fft_2\reference files\fourielizer_01\include\main.h
+	<iostream>
+	<vector>
+	<complex>
+	<cmath>
+	<math.h>
+	<thread>
+	<algorithm>
+	<ctime>
+	<stdexcept>
+	<string>
+	<valarray>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<SFML/Audio.hpp>
+
+1629889526 e:\suyog\bct\bctsem3\oop\project\visualizer-main\project_2\fft_2\reference files\fourielizer_01\include\audio.h
+	"main.h"
+
+1629889897 source:e:\suyog\bct\bctsem3\oop\project\visualizer-main\project_2\fft_2\reference files\fourielizer_01\src\audio.cpp
+	"Audio.h"
+
